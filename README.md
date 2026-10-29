@@ -1,7 +1,7 @@
 # Multimodal Analysis of Human emotions
 ### EEG Signal Processing, Brainwave Analysis, and Mental State Estimation
 
-## 📌 Project Overview
+##  Project Overview
 
 This project implements an EEG (Electroencephalography) signal analysis system using MATLAB to study brainwave activity and estimate mental states based on frequency-band power distribution.
 
@@ -95,7 +95,7 @@ A MATLAB window displays the feedback associated with the estimated mental state
        Feedback and Visualization
 ```
 
-## 🧪 Methodology
+##  Methodology
 
 ### Step 1: Signal Loading
 The script loads the EEG data required for processing using the provided MATLAB figure file.
@@ -175,7 +175,7 @@ When the script runs successfully, it is designed to display:
 
 Actual outputs depend on the input data and the script's classification rules.
 
-## 🔬 Applications
+##  Applications
 
 - Biomedical signal processing education
 - EEG frequency-domain analysis
