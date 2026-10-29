@@ -204,3 +204,12 @@ Potential extensions include:
 - Supporting real-time EEG acquisition from compatible hardware.
 - Building an interactive dashboard for monitoring EEG signals and analysis results.
 - Improving feedback generation using validated, subject-specific models.
+
+## Team Members
+
+Department of Electronics and Communication Engineering  
+BNM Institute of Technology (BNMIT)
+
+- **Akanksha Sharma** — 1BG23EC005
+- **Devasmita Pathak** — 1BG23EC026
+- **Faheemah M** — 1BG23EC031
